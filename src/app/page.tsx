@@ -5,7 +5,7 @@ import { TextGenerateEffect } from "@/components/ui/text-generate-effect";
 import { useState } from "react";
 
 const words = `Amore, questa situazione mi pesa troppo… Voglio solo stare bene con te e sistemare le cose. Facciamo pace?`;
-const words2 = `Sono super contento, ora non ho più l'ansia❤️❤️`;
+const words2 = `Sono super contento, ora non ho più l'ansia,Ti amo ❤️❤️❤️❤️`;
 
 export default function Home() {
   const [showYes, setShowYes] = useState(false);
