@@ -4,7 +4,7 @@ import CustomButton from "@/components/ui/buttons";
 import { TextGenerateEffect } from "@/components/ui/text-generate-effect";
 import { useState } from "react";
 
-const words = `Ciao amo, non ce la facccio con questa situazione, voglio solo stare bene con te, voglio solo sistamre le cose, facciamo la pace?`;
+const words = `Amore, questa situazione mi pesa troppo… Voglio solo stare bene con te e sistemare le cose. Facciamo pace?`;
 const words2 = `Sono super contento, ora non ho più l'ansia`;
 
 export default function Home() {
